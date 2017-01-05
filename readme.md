@@ -1,10 +1,10 @@
-#Code Assessment
+# Code Assessment
 
-##Tasks:
+## Tasks:
 
-1) Create a webpage with Javascript that (using ajax) gets a JSON document (test_feed.json) and builds a data structure that captures the count of each word in the content of the "bodyHtml" field(s).
+1. Create a webpage with Javascript that (using ajax) gets a JSON document (test_feed.json) and builds a data structure that captures the count of each word in the content of the "bodyHtml" field(s).
 
-2) Utilize the Chart.js library (http://www.chartjs.org/) to visualize the results. You're free to implement it in anyway you see fit, including the use of other libraries.
+2. Utilize the Chart.js library (http://www.chartjs.org/) to visualize the results. You're free to implement it in anyway you see fit, including the use of other libraries.
 
 ### Time Limit: 4 hours
 
