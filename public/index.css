@@ -1,0 +1,27 @@
+html {
+	background: #cyan;
+}
+dl {
+	background: black;
+}
+dl li{
+	display: inline-block;
+
+}
+.sectionheader {
+	font-size: 1.25em;
+}
+a {
+	color: #fff;
+}
+.copy span {
+	text-align: right;
+}
+.sectionheader ~ * {
+	width: 50%;
+}
+.text {
+	float: right;
+	width: 30%;
+    margin: 0 15% 0 0;
+}
