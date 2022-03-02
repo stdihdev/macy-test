@@ -2,17 +2,17 @@
 
 ### Time Limit: 6 hours
 
-Please try to complete this exercise within six hours. If you're not able to complete it by then, please provide a link to your work along with a list of challenges, reasons why they were a challenge, and how you would overcome them if you had more time. It's more important to see your process and approach than it is to deliver production-ready code (though it doesn't hurt).
+Please try to complete this exercise within six hours. If you're not able to complete it by then, please provide a link to your work along with a list of challenges, reasons why they were a challenge, and how you would overcome them if you had more time. Please do **not** spend more than 6 hours on this assessment. This is an open-ended assessment, ther is no true **finished** state.
 
-I'll be looking for correctness, thoughtfulness, efficiency, and intent.
+ **It's more important to see your process and approach than it is to deliver production-ready code (though it doesn't hurt).**
+
+We'll be looking for correctness, thoughtfulness, efficiency, and intent.
 
 The goal is to demonstrate your abilities in; 
 
 - parsing and manipulating data
-
 - using a third-party library
-
-- developing responsive, efficient web pages with readable code
+- developing responsive & efficient web pages with readable code
 
 
 ## Tasks:
@@ -23,4 +23,4 @@ The goal is to demonstrate your abilities in;
 
 3. Utilize the Chart.js library (http://www.chartjs.org/) to visualize the results on the web page. You're free to implement it in anyway you see fit, including the use of other libraries.
 
-4. Using git, put the files in a publically accesible repo so that the test can be run on a local machine.
+4. Using git, put the files in a publicly accessible repo so that your work can be run on a local machine.
