@@ -17,9 +17,9 @@ The goal is to demonstrate your abilities in;
 
 ## Tasks:
 
-1. Using the files found in `/public`, correct all errors on the web page. The page should be responsive and adhere to strict HTML/CSS/JS standards. Vanilla Javascript is preferred.
+1. Using the files found in `/public`, correct all errors on the web page. The page should be responsive and adhere to strict HTML/CSS/JS standards. Vanilla Javascript is preferred, but not required.
 
-2. Build a data structure that captures the count of each word in the content of the "bodyHtml" field(s) from JSON document `/test_feed.json`.
+2. Build a data structure that captures the count of each word in the content of the `bodyHtml` field(s) from JSON document `/test_feed.json`.
 
 3. Utilize the Chart.js library (http://www.chartjs.org/) to visualize the results on the web page. You're free to implement it in anyway you see fit, including the use of other libraries.
 
