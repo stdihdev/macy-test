@@ -1,27 +1,41 @@
 html {
-	background: #cyan;
+  background: cyan;
 }
 dl {
-	background: black;
+  background: black;
 }
-dl li{
-	display: inline-block;
-
+dl li {
+  display: inline-block;
 }
 .sectionheader {
-	font-size: 1.25em;
+  font-size: 1.25em;
+}
+.sectionbody {
+  display: flex;
+  flex-direction: row;
+}
+
+.sectionbody > * {
+  width: 50%;
 }
 a {
-	color: #fff;
+  color: #fff;
 }
 .copy span {
-	text-align: right;
-}
-.sectionheader ~ * {
-	width: 50%;
+  text-align: right;
 }
 .text {
-	float: right;
-	width: 30%;
-    margin: 0 15% 0 0;
+  float: right;
+  width: 30%;
+  margin: 0 15% 0 0;
+}
+
+@media (max-width: 640px) {
+  .sectionbody {
+    flex-direction: column;
+  }
+
+  .sectionbody > * {
+    width: 100%;
+  }
 }
